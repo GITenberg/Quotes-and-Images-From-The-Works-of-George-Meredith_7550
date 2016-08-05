@@ -1,0 +1,35 @@
+_repo: Quotes-and-Images-From-The-Works-of-George-Meredith_7550
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7550/7550-h/images/frontpiece2.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PR'
+- GITenberg
+title: Quotes and Images From The Works of George Meredith
+url: http://www.gutenberg.org/ebooks/7550
